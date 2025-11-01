@@ -2,15 +2,22 @@
 
 A new Flutter project.
 
-## Getting Started
+# Laporan IMPLEMENTASI MASTER PLAN
+**Nama:** Ismi Atika  
+**NIM:** 2341760036  
+**Kelas:** SIB3C  
 
-This project is a starting point for a Flutter application.
+## Hasil Praktikum 1
 
-A few resources to get you started if this is your first Flutter project:
+Berikut adalah hasil akhir dari Praktikum yang telah saya kerjakan
+![Hasil](image/Hasil_1-1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Hasil langkah 9 menampilkan aplikasi Master Plan Ismi dengan tema ungu, judul di bagian atas, dan tombol ( + ) di kanan bawah untuk menambah tugas. Tampilan ini menunjukkan bahwa aplikasi sudah berhasil menampilkan halaman utama PlanScreen sesuai rancangan praktikum.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Berikut adalah hasil akhir dari Praktikum yang telah saya kerjakan
+![Hasil](image/Hasil_1-2.png)
+
+Hasil akhir praktikum menampilkan aplikasi Master Plan Ismi dengan daftar tugas yang dapat ditandai selesai. Beberapa tugas sudah dicentang, dan satu masih aktif. Tampilan menggunakan tema ungu dengan tombol ( + ) di kanan bawah untuk menambah tugas. Aplikasi berjalan lancar tanpa error dan berhasil menerapkan konsep stateful widget serta model-view structure di Flutter.
+
+Selanjutnya bisa melihat hasil GIF dari teks yang terdeteksi melalui video berikut:  
+🎥 [Klik di sini untuk melihat video hasil OCR](image/Hasil_1-3.mp4)
