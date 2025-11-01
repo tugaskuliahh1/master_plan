@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-# Laporan IMPLEMENTASI MASTER PLAN
+# LAPORAN IMPLEMENTASI MASTER PLAN
 **Nama:** Ismi Atika  
 **NIM:** 2341760036  
 **Kelas:** SIB3C  
@@ -31,3 +31,17 @@ Hasil dari langkah 9 menampilkan aplikasi Master Plan yang sudah berhasil menamp
 
 Selanjutnya bisa melihat hasil GIF dari tampilan yang terdeteksi melalui video berikut:  
 🎥 [Klik di sini untuk melihat video hasil Master Plan](image/Hasil_2-1.mp4)
+
+## Hasil Praktikum 3
+
+Berikut adalah hasil akhir dari Praktikum yang telah saya kerjakan
+![Hasil](image/Hasil_3.png)
+
+Pada langkah ini, saya berhasil menjalankan aplikasi Master Plan App dengan konsep state management menggunakan InheritedNotifier dan ValueNotifier melalui class PlanProvider. Aplikasi dapat menampilkan daftar rencana seperti “Try to take over the world”, “Invent New Form of Cheese”, dan “Learn Flutter” dengan tampilan utama bertema biru. Hasil ini menunjukkan bahwa sistem penyimpanan dan pembagian data antar widget sudah berjalan dengan baik, serta tampilan aplikasi sudah sesuai dengan rancangan yang diharapkan.
+
+## Soal 2 Praktikum 3
+![Hasil](image/Soal_2.png)
+Secara keseluruhan, diagram ini menggambarkan bahwa aplikasi menggunakan mekanisme navigasi Navigator.push() untuk berpindah dari halaman pembuat rencana (PlanCreatorScreen) ke halaman detail rencana (PlanScreen). Perpindahan ini tidak hanya mengubah tampilan antar halaman, tetapi juga memperlihatkan bagaimana struktur widget dan data berpindah dari satu konteks ke konteks lainnya. Melalui pendekatan ini, setiap plan yang dipilih akan ditampilkan secara detail dengan daftar tugas di dalamnya, sehingga pengguna dapat melihat isi dan progres dari masing-masing rencana yang telah dibuat.
+
+Selanjutnya bisa melihat hasil GIF dari tampilan yang terdeteksi melalui video berikut:  
+🎥 [Klik di sini untuk melihat video hasil Master Plan](image/Hasil_3-1.mp4)
